@@ -14,8 +14,8 @@ pip install handy-cricket
 
 ## Usage
 
-- import handy-cricket
-- handy-cricket.main()
+- import handy_cricket
+- handy_cricket.main()
 
 This will automatically trigger the game, and you can start playing.
 
