@@ -10,17 +10,14 @@ A fun, interactive hand cricket game where you can play against the computer. Ch
 
 ## Installation
 
-pip install handy_cricket
-<!--(Add your installation instructions here.)-->
+pip install handy-cricket
 
 ## Usage
 
-- import handy_cricket
-- handy_cricket.main()
+- import handy-cricket
+- handy-cricket.main()
 
 This will automatically trigger the game, and you can start playing.
-<!--(Add your usage instructions here.)-->
-
 
 ## Functions
 
