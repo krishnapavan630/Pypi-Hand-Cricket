@@ -10,7 +10,7 @@ A fun, interactive hand cricket game where you can play against the computer. Ch
 
 ## Installation
 
-pip install handy-cricket
+pip install handy_cricket
 
 ## Usage
 
