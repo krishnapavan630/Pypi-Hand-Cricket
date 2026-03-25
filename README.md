@@ -46,3 +46,7 @@ Executes the gameplay when the computer bats first.
 ### `show_instructions()`
 
 Displays the instructions on how to play the game.
+
+# Contributing
+
+Feel free to fork this repository and submit a pull request. Suggestions, issues, and improvements are always welcome!
