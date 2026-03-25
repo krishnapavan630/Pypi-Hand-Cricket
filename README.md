@@ -8,6 +8,21 @@ A fun, interactive hand cricket game where you can play against the computer. Ch
 - **Toss Mechanism**: Choose "Even" or "Odd" for the toss to decide your role.
 - **Batting and Bowling**: Experience both roles and aim to outscore the opponent.
 
+## What's New (Latest Version)
+
+- **Improved Input Handling**: All user input is now validated in loops (no recursion), preventing crashes from repeated invalid input.
+- **Graceful Exits**: The game now handles Ctrl+C/Ctrl+D (KeyboardInterrupt/EOFError) gracefully, exiting with a friendly message.
+- **Playful User Experience**: All print statements have been rewritten to be more playful, clear, and consistent, making the game more engaging.
+- **Direct Script Execution**: Added an entry point (`if __name__ == "__main__": main()`) so you can run the script directly.
+- **Robust and User-Friendly**: The game is now safer, more robust, and easier to use for everyone.
+
+### How is this different from older versions?
+
+- No more recursion errors or stack overflows from repeated invalid input.
+- Clearer, friendlier prompts and results throughout the game.
+- Handles unexpected exits gracefully.
+- Code is easier to maintain and extend.
+
 ## Installation
 
 pip install handy_cricket
