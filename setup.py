@@ -6,7 +6,7 @@ long_description = (this_directory / "Readme.md").read_text()
 
 setup(
     name='handy_cricket', 
-    version='1.0.0',
+    version='1.0.2',
     packages=find_packages(),
     install_requires=[],
     author='Ramakrishna Pavan',
